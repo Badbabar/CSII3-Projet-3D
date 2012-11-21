@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1349101433 source:c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	"include/Ship.h"
+	"include/Shoot.h"
+	"include/Map.h"
+
+1349098942 source:c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\src\ship.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"../include/Ship.h"
+
+1349099024 c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\include\ship.h
+
+1349099154 source:c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\src\shoot.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"../include/Shoot.h"
+
+1349098295 c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\include\shoot.h
+
+1349100411 source:c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\src\person.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"../include/Person.h"
+
+1349100401 c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\include\person.h
+
+1349102253 source:c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\src\map.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Map.h"
+
+1349101195 c:\users\camille\music\documents\epsi\csii 3\3d\tp 1 - spaceship\include\map.h
+
+1349171574 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\map.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Map.h"
+
+1349101195 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\map.h
+
+1349270885 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\person.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"../include/Person.h"
+	"../include/Point.h"
+	"../include/Color.h"
+
+1349270411 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\person.h
+	<vector>
+	"Color.h"
+	"Blood.h"
+
+1349263398 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\ship.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<iostream>
+	"../include/Ship.h"
+	"../include/Shoot.h"
+	"../include/Point.h"
+	"../include/Mine.h"
+
+1349263391 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\ship.h
+	"../include/Shoot.h"
+	"../include/Mine.h"
+
+1349186584 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\shoot.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"../include/Shoot.h"
+	"../include/Point.h"
+
+1349186565 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\shoot.h
+
+1349640688 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"include/Ship.h"
+	"include/Car.h"
+	"include/Shoot.h"
+	"include/Mine.h"
+	"include/Map.h"
+	"include/Person.h"
+
+1349171851 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\car.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Car.h"
+
+1349170686 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\car.h
+	"../include/Ship.h"
+
+1349185277 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\point.cpp
+	"../include/Point.h"
+
+1349185252 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\point.h
+
+1349188941 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\color.h
+
+1349188631 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\color.cpp
+	"../include/Color.h"
+
+1349189782 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\blood.h
+	"../include/Point.h"
+
+1349189739 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\blood.cpp
+	"../include/Blood.h"
+
+1349269015 c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\include\mine.h
+	<SDL/SDL.h>
+
+1349269012 source:c:\users\camille\music\documents\epsi\csii 3\3d\csii3-opengl-tp1\src\mine.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Mine.h"
+	<stdlib.h>
+	<time.h>
+
+1353335660 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1349259791 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\ship.h
+	"../include/Shoot.h"
+	"../include/Mine.h"
+
+1349182965 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\shoot.h
+
+1349265415 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\mine.h
+	<SDL/SDL.h>
+
+1349167086 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\car.h
+	"../include/Ship.h"
+
+1349097595 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\map.h
+
+1349266811 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\person.h
+	<vector>
+	"Color.h"
+	"Blood.h"
+
+1349185341 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\color.h
+
+1349186182 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\blood.h
+	"../include/Point.h"
+
+1349181652 c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\include\point.h
+
+1349186139 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\blood.cpp
+	"../include/Blood.h"
+
+1349168251 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\car.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Car.h"
+
+1349185031 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\color.cpp
+	"../include/Color.h"
+
+1349167974 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\map.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Map.h"
+
+1349265412 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\mine.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"../include/Mine.h"
+	<stdlib.h>
+	<time.h>
+
+1353333880 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\person.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"../include/Person.h"
+	"../include/Point.h"
+	"../include/Color.h"
+
+1349181677 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\point.cpp
+	"../include/Point.h"
+
+1349259798 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\ship.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<iostream>
+	"../include/Ship.h"
+	"../include/Shoot.h"
+	"../include/Point.h"
+	"../include/Mine.h"
+
+1349182984 source:c:\users\camille\google drive\epsi\cours\csii 3\projet 3d\sources\csii3-projet-3d\src\shoot.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"../include/Shoot.h"
+	"../include/Point.h"
+
